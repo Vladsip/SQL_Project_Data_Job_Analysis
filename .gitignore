@@ -1,0 +1,8 @@
+# VSCode nastavení
+.vscode/
+
+# Obrázky
+*.PNG
+
+# CSV soubory
+*.csv
