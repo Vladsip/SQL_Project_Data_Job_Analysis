@@ -52,7 +52,7 @@ WHERE job_location = 'Anywhere' AND salary_year_avg IS NOT NULL AND job_title_sh
 ORDER BY salary_year_avg DESC
 LIMIT 10
 ```
-![Top paying jobs](SQL_Project_Data_Jobs_Analyses\assets\1_top_paying_jobs.png)
+![Top paying jobs](SQL_Project_Data_Jobs_Analyses/assets/1_top_paying_jobs.png)
 *Bar graph visualizing the salaty form the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 
 
@@ -101,7 +101,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 - **Python** follows closely with a bold count of 7.
 - **Tableau** is also highly sought after, with a bold count of 6. Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
 
-![Skill Count for Top 10 Paying Data Analyst Jobs in 2023](SQL_Project_Data_Jobs_Analyses\assets\2_skill_count.png)
+![Skill Count for Top 10 Paying Data Analyst Jobs in 2023](SQL_Project_Data_Jobs_Analyses/assets\/2_skill_count.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 3. What skills are most in demand for data analysts?
